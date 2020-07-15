@@ -3,8 +3,4 @@ COVID-19 Tracker IOS App 🦠
 
 ## Screenshots
 
-![Screenshot](https://github.com/Rohan-cod/COVID-19_TRACKER/blob/master/Screenshots/Start.jpg)
-![Screenshot](https://github.com/Rohan-cod/COVID-19_TRACKER/blob/master/Screenshots/Home.jpg)
-![Screenshot](https://github.com/Rohan-cod/COVID-19_TRACKER/blob/master/Screenshots/Search.jpg)
-![Screenshot](https://github.com/Rohan-cod/COVID-19_TRACKER/blob/master/Screenshots/India.jpg)
-![Screenshot](https://github.com/Rohan-cod/COVID-19_TRACKER/blob/master/Screenshots/Detail.jpg)
+<img src="https://github.com/Rohan-cod/COVID-19_TRACKER/blob/master/Screenshots/Start.jpg" width="300"><img src="https://github.com/Rohan-cod/COVID-19_TRACKER/blob/master/Screenshots/Home.jpg" width="300"><img src="https://github.com/Rohan-cod/COVID-19_TRACKER/blob/master/Screenshots/Search.jpg" width="300"><img src="https://github.com/Rohan-cod/COVID-19_TRACKER/blob/master/Screenshots/India.jpg" width="300"><img src="https://github.com/Rohan-cod/COVID-19_TRACKER/blob/master/Screenshots/Detail.jpg" width="300">
