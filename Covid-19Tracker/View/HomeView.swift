@@ -12,6 +12,7 @@ struct HomeView: View {
     
     @ObservedObject var networkManager = NetworkManager()
     
+    @State private var isPresented: Bool = false
     
     var body: some View {
         VStack {
@@ -74,12 +75,26 @@ struct HomeView: View {
                 })
                 .padding(.all)
             
+            Spacer()
+            HStack {
+                Text("Data From Postman API")
+                Button(action: {
+                    self.isPresented = true
+                }, label: {
+                    Image(systemName: "arrow.up.right.square")
+                })
+            }
+            .padding()
+            
             
         }
             
         .onAppear {
             self.networkManager.fetchData()
         }
+        .sheet(isPresented: self.$isPresented, content: {
+            WebView(urlString: "https://covid-19-apis.postman.com")
+        })
     }
 }
 
