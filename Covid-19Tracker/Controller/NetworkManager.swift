@@ -2,7 +2,7 @@
 //  NetworkManager.swift
 //  Covid-19Tracker
 //
-//  Created by pamarori mac on 14/07/20.
+//  Created by pamarori mac on 25/09/20.
 //  Copyright © 2020 pamarori mac. All rights reserved.
 //
 
