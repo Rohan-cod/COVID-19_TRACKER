@@ -1,5 +1,3 @@
-# Disclaimer:- This code cannot be used for anything that might be considered commercial use. [License](https://github.com/Rohan-cod/COVID-19_TRACKER/blob/master/LICENSE)
-
 # COVID-19 TRACKER
 COVID-19 Tracker IOS App 🦠
 
